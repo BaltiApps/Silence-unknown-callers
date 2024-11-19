@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Silence unknown callers</string>
+
+    <!--HomeSettings.kt-->
+    <string name="settings">Settings</string>
+    <string name="silence_unknown_calls">Silence unknown calls</string>
+    <string name="block_unknown_calls">Block unknown calls</string>
+    <string name="enable_notifications">Enable notifications</string>
+
+    <!--Notifications-->
+    <string name="call_silenced">Call silenced: %1$s</string>
+    <string name="call_blocked">Call blocked: %1$s</string>
+
+    <!--CallLogs.kt-->
+    <string name="call_logs">Call logs</string>
+    <string name="call_logs_permission_not_allowed">Call log read permission is not allowed.</string>
+    <string name="allow">Allow</string>
+    <string name="nothing_to_show">Nothing to show.</string>
+    <string name="nothing_to_show_desc">Calls silenced / blocked will be shown here.</string>
+    <string name="silenced">Silenced</string>
+    <string name="blocked">Blocked</string>
+    <string name="call">Call</string>
+    <string name="missed_call">Missed call</string>
+    <string name="incoming_call">Incoming call</string>
+    <string name="outgoing_call">Outgoing call</string>
+    <string name="blocked_call">Blocked call</string>
+    <string name="rejected_call">Rejected call</string>
+    <string name="voicemail">Voicemail</string>
+
+    <!--FirstSetup.kt-->
+    <string name="next">Next</string>
+    <string name="intro1_text1">This app allows to easily silence or block calls from unknown numbers. Useful if you get too many spam calls.</string>
+    <string name="intro1_text2">This app is still in development. Feel free to suggest improvements by joining our Telegram group.</string>
+    <string name="intro1_text3">Kindly set the app as the default \"Caller ID and spam app\"</string>
+    <string name="set_as_default_call_filter">Set as default spam detection app</string>
+    <string name="allow_call_log_optional">Allow to read call logs (optional)</string>
+</resources>

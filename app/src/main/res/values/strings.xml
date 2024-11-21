@@ -14,6 +14,7 @@
     <!--CallLogs.kt-->
     <string name="call_logs">Call logs</string>
     <string name="call_logs_permission_not_allowed">Call log read permission is not allowed.</string>
+    <string name="call_log_permission_desc">This is needed to show if a call was silenced / blocked.</string>
     <string name="allow">Allow</string>
     <string name="nothing_to_show">Nothing to show.</string>
     <string name="nothing_to_show_desc">Calls silenced / blocked will be shown here.</string>

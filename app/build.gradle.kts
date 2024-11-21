@@ -8,7 +8,7 @@ plugins {
 
 android {
     namespace = "baltiapps.callblock"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "baltiapps.callblock"
